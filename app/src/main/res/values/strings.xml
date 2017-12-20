@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Output_field_text">0</string>
+    <string name="Input_field_text"></string>
+    <string name="button7_label">7</string>
+    <string name="button8_label">8</string>
+    <string name="button9_label">9</string>
+    <string name="button4_label">4</string>
+    <string name="button5_label">5</string>
+    <string name="button6_label">6</string>
+    <string name="button1_label">1</string>
+    <string name="button2_label">2</string>
+    <string name="button3_label">3</string>
+    <string name="button0_label">0</string>
+    <string name="buttonEq_label">=</string>
+    <string name="buttonCl_label">C</string>
+    <string name="buttonPlus_label">+</string>
+    <string name="buttonMinus_label">-</string>
+    <string name="buttonSpace_label">S</string>
+    <string name="buttonBckSpace_label">R</string>
+    <string name="buttonMultip_label">*</string>
+    <string name="buttonDiv_label">/</string>
+    <string name="buttonMod_label">%</string>
+    <string name="buttonExp_label">^</string>
+    <string name="buttonFac_label">!</string>
+    <string name="buttonOBracket_label">(</string>
+    <string name="buttonCBracket_label">)</string>
+</resources>
